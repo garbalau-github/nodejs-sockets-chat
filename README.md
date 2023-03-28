@@ -1,0 +1,2 @@
+# nodejs-sockets-chat
+Minimalistic
